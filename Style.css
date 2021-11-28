@@ -1,0 +1,40 @@
+body {
+    background-color: #ссс;
+    
+    font-family: Tahoma;
+    line-height: 1,5 ;
+}
+.title {
+    font-size: 45px;
+    color: #dd0d0d;
+}
+.card {
+    width: 400px;
+    margin: 30px auto;
+    box-shadow: 0 5px 10px #938d8d;
+     border-radius: 10px;
+}
+.card-photo {
+    display: block;
+
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #ссс;
+}
+.card-text {
+    font-size: 18px;
+    text-align: center;
+}
+.card-cubtitle {
+    font-size: 20px;
+    color: #368d10;
+    
+}
+.card-list {
+    color: #810505;
+    font-family: fantasy
+}
